@@ -1,1 +1,2 @@
 # FCN
+python main.py
