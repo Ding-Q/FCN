@@ -1,2 +1,2 @@
 # FCN
-python main.py
+python FCN-road.py
